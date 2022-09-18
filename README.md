@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ParthTyagi15
-- 👀 I’m interested in ...Coding ; Sports enthusiast:) ; Maybe Artificial Intelligence
-- 🌱 I’m currently learning ...C++ for Competitive Programming
+- 👀 I’m interested in ...Coding and Computers in general; Maybe Artificial Intelligence
+- 🌱 I’m currently learning ...C++,Java,Javascript,Web Development.
 - 📫 How to reach me ... Email : iparth556@gmail.com
 
 <!---
