@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ParthTyagi15
-- 👀 I’m interested in ...Coding and Computers in general; Maybe Artificial Intelligence
+- 👀 I’m interested in ...Computer Programming and Technologies in general;
 - 🌱 I’m currently learning ...C++,Java,Javascript,Web Development.
 - 📫 How to reach me ... Email : iparth556@gmail.com
 
