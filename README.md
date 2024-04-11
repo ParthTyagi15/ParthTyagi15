@@ -18,7 +18,7 @@ You can click the Preview link to take a look at your changes.
 
 - 📫 How to reach me **iparth556@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1eGqujjz3dzwATDWOP7xn2o3omK9me4kL/view?usp=sharing](https://drive.google.com/file/d/1eGqujjz3dzwATDWOP7xn2o3omK9me4kL/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1eGqujjz3dzwATDWOP7xn2o3omK9me4kL/view?usp=sharing)
 
 - ⚡ Fun fact **I think I am funny.**
 
